@@ -1,1 +1,1 @@
-FROM gitpod/workspace-mysql
+FROM loliconneko/oracle-ee-11g  
